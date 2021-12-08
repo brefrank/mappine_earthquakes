@@ -1,2 +1,1 @@
-# mappine_earthquakes
-Module 13
+# Mapping Earthquakes
